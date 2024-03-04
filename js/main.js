@@ -1,3 +1,4 @@
+// javascript chapter 3 string methods
 // string methods 
 // let's create a variable
 const myVariable = "Machine learning";
